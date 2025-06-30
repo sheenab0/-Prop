@@ -17,3 +17,6 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  git add android/
+git commit -m "Add android directory"
+git push origin main
